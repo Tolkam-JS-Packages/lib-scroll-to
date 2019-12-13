@@ -1,0 +1,12 @@
+{
+    "name": "@tolkam/lib-scroll-to",
+    "version": "1.0.0",
+    "description": "Scrolls element to specific position",
+    "main": "src/index.ts",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+        "@tolkam/lib-easing-functions": "file:D:/dev-packages/js/tolkam/lib-easing-functions"
+    },
+    "devDependencies": {}
+}
